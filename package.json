@@ -41,7 +41,7 @@
     "jsdom": "^29.1.1",
     "marked": "^18.0.11",
     "method-override": "^3.0.0",
-    "mongoose": "^9.9.4",
+    "mongoose": "^9.11.4",
     "resend": "^6.9.2",
     "slugify": "^1.6.9"
   },
